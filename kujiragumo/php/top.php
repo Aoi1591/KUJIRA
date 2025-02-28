@@ -59,4 +59,4 @@
          <img class="back-img" src="../img/送迎.png">
    </div>
   </div>
-<?php require 'fotter.html';?>
+<?php require 'fotter.php';?>
