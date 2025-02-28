@@ -14,7 +14,7 @@
         echo '<header>';
          echo '<div class="header">';
          echo '<img class ="logo" src="../img/logo.png" alt="ロゴ">';
-         echo '<a href="inquiry.php" class="inquiry">＞お問い合わせはこちら</a></li>';
+        // echo '<a href="inquiry.php" class="inquiry">＞お問い合わせはこちら</a></li>';
         require "hum.php";
          echo '</div>';
          echo '</header>';
