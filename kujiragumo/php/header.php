@@ -23,7 +23,7 @@
         echo '<header>';
          echo '<div class="header">';
          echo '<img class ="logo" src="../img/logo.png" alt="放課後等デイサービスくじらぐものロゴ>';
-         echo '<a href="https://docs.google.com/forms/d/e/1FAIpQLSdWoQ3KMJ2k1Rfcb103mikbpChlnogBG4KJBMq25o2zUSfzmA/viewform?pli=1" class="inquiry">＞お問い合わせはこちら</a></li>';
+         echo '<a href="https://docs.google.com/forms/d/e/1FAIpQLSdWoQ3KMJ2k1Rfcb103mikbpChlnogBG4KJBMq25o2zUSfzmA/viewform?pli=1" class="inquiry">＞お問い合わせはこちら</a>';
         require "hum.php";
          echo '</div>';
          echo '</header>';
