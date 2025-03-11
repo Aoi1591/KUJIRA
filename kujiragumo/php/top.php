@@ -28,7 +28,7 @@
 <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 <script src="../js/index.js"></script>
 <div class="question">
-<h2>Q:放課後デイサービスとは？</h2>
+<h2>Q:放課後等デイサービスとは？</h2>
 </div>
   <div class="expl">
     <p>障がいのある（療育が必要と認められる）子どもたちを放課後や長期休暇中（春休みや夏休み）
