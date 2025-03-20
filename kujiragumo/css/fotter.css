@@ -51,6 +51,13 @@ a{
     position: relative;
     left: 20px;
 }
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration : underline;;
+}
 }
 @media screen and (max-width:480px) {
     .footer-box{
@@ -108,5 +115,9 @@ a{
         text-decoration: none;
         color: #fff;
 
+    }
+    .link{
+        color: #fff;
+        text-decoration: none;
     }
     }
