@@ -18,7 +18,7 @@ footer {
     box-sizing: border-box;
 }
 .fotter-left{
-    margin-left: 15%;
+    margin-left: 5%;
 }
 
 .fotter {
@@ -30,7 +30,7 @@ footer {
     /*margin-left: 15%;*/
 }
 .fotter-right{
-    margin-right: 15%;
+    margin-right: 5%;
     text-align: right;
     margin-top: 0;
     white-space: nowrap;/*一行で表示させる*/
