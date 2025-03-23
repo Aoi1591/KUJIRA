@@ -37,11 +37,6 @@ footer {
 }
 a{
     margin-top: 3px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    text-align: left;
-}
 
 .icon-img{
     width: 50px !important;
