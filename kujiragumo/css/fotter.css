@@ -20,6 +20,12 @@ footer {
 .fotter-left{
     margin-left: 5%;
 }
+.fotter-right{
+    margin-right: 5%;
+    text-align: right;
+    margin-top: 0;
+    white-space: nowrap;/*一行で表示させる*/
+}
 
 .fotter {
     /*justify-content: space-between;
@@ -28,12 +34,6 @@ footer {
     padding: 0 20px;
     text-align: left;
     /*margin-left: 15%;*/
-}
-.fotter-right{
-    margin-right: 5%;
-    text-align: right;
-    margin-top: 0;
-    white-space: nowrap;/*一行で表示させる*/
 }
 a{
     margin-top: 3px;
