@@ -12,6 +12,21 @@
                     <a href="../docs/program.pdf" target="_blank" class="link">こちら</a>
                     をご覧ください
             </div>
+            <div class="fotter-right">
+                    保護者等からの事業所評価結果
+                    <a href="../docs/保護者等からの事業所評価の集計結果.pdf" target="_blank" class="link">こちら</a>
+                    をご覧ください
+            </div>
+            <div class="fotter-right">
+                    事業所における自己評価結果
+                    <a href="../docs/事業所における自己評価の結果.pdf" target="_blank" class="link">こちら</a>
+                    をご覧ください
+            </div>
+            <div class="fotter-right">
+                    事業所総括
+                    <a href="../docs/事業所における自己評価総括表.pdf" target="_blank" class="link">こちら</a>
+                    をご覧ください
+            </div>
             <a class="icon" href="https://www.instagram.com/kujiragumo0701/?igsh=dHM2bzA4Z2E0MWxq">
                 <img class="icon-img" src="../img/Instagram_icon.png" alt="Instagram">
             </a>
