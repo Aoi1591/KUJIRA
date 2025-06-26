@@ -19,7 +19,7 @@
             </div>
             <div class="fotter-right">
                     事業所における自己評価結果
-                    <a href="../docs/事業所における自己評価の結果.pdf" target="_blank" class="link">こちら</a>
+                    <a href="../docs/事業所における自己評価結果.pdf" target="_blank" class="link">こちら</a>
                     をご覧ください
             </div>
             <div class="fotter-right">
